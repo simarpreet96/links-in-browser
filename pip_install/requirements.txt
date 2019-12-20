@@ -16,7 +16,7 @@ defer==1.0.6
 defusedxml==0.6.0
 diff-match-patch==20181111
 distro-info===0.18ubuntu0.18.04.1
-Django==2.2
+Django==2.2.8
 django-admin==2.0.0
 django-allauth==0.40.0
 django-barcode==0.1.1
